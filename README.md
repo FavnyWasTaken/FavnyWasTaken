@@ -2,7 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=D0D0D0&center=true&vCenter=true&width=435&lines=github.com%2FFavnyWasTaken" alt="Typing SVG"/>
 </p>
 
-![Uploading image.png…]()
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/0caa8420-9656-4872-9f3e-1f59a0eb178c" />
+
 
 
 <h3 align="center">Peeps who dropped by</h3>
