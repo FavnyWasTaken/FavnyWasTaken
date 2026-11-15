@@ -5,5 +5,5 @@
 <h3 align="center">peeps who dropped by</h3>
 
 <p align="center">
-  <img src="https://count.getloli.com/@GitHub_FavnyWasTaken?name=GitHub_FavnyWasTaken&theme=moebooru&padding=7&offset=0&align=top&scale=2&pixelated=0&darkmode=1" alt="Visitor counter"/>
+  <img src="https://count.getloli.com/@GitHub_FavnyWasTaken?name=GitHub_FavnyWasTaken&theme=moebooru&padding=7&offset=0&align=top&scale=1.5&pixelated=0&darkmode=1" alt="Visitor counter"/>
 </p>
