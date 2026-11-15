@@ -10,3 +10,5 @@
 <p align="center">
   <img src="https://count.getloli.com/@GitHub_FavnyWasTaken?name=GitHub_FavnyWasTaken&theme=moebooru&padding=7&offset=0&align=top&scale=1.5&pixelated=0&darkmode=1" alt="Visitor counter"/>
 </p>
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2e7a9d70-84d9-4030-aed3-0bc54811a771" />
