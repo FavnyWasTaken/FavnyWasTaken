@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=D0D0D0&center=true&vCenter=true&width=435&lines=github.com%2FFavnyWasTaken" alt="Typing SVG"/>
 </p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
+</p>
+
 <img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/2619b510-10e2-4659-b6ad-dc356c4afe84" />
 
 <h3 align="center">Peeps who dropped by</h3>
