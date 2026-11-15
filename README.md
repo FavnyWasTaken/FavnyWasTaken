@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/@GitHub_FavnyWasTaken?name=GitHub_FavnyWasTaken&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=1" alt="Visitor counter"/>
+  <img src="https://count.getloli.com/@GitHub_FavnyWasTaken?name=GitHub_FavnyWasTaken&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=0&darkmode=1" alt="Visitor counter"/>
 </p>
