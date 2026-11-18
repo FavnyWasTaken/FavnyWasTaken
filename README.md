@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Python-c8c8c8?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
 </p> 
 
-<h3 align="center">Peeps who dropped by</h3>
+<h2 align="center">Peeps who dropped by</h2>
 
 <p align="center">
   <img src="https://count.getloli.com/@GitHub_FavnyWasTaken?name=GitHub_FavnyWasTaken&theme=moebooru&padding=7&offset=0&align=top&scale=1.5&pixelated=0&darkmode=1" alt="Visitor counter"/>
