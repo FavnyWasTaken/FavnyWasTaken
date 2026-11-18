@@ -16,8 +16,6 @@
 ## 🛠️ Tech stack
 
 <p>
-    <img src="https://img.shields.io/badge/Whonix-c8c8c8?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJibGFjayIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgMmw4IDN2NmMwIDUtMy41IDktOCAxMS00LjUtMi04LTYtOC0xMVY1eiIvPjwvc3ZnPg==" alt="Whonix" />
-  <img src="https://img.shields.io/badge/Tor-c8c8c8?style=for-the-badge&logo=torproject&logoColor=black" alt="Tor" />
   <img src="https://img.shields.io/badge/Linux-c8c8c8?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/GitHub-c8c8c8?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
   <img src="https://img.shields.io/badge/Qubes_OS-c8c8c8?style=for-the-badge&logo=qubesos&logoColor=black" alt="Qubes OS" />
