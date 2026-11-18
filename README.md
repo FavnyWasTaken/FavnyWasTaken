@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/FavnyWasTaken/FavnyWasTaken/main/profile-card.svg" alt="profile card" width="800" />
 </p>
 
-                                          ## 🛠️ Tech stack
+## 🛠️ Tech stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-c8c8c8?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
