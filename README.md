@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=D0D0D0&center=true&vCenter=true&width=435&lines=github.com%2FFavnyWasTaken" alt="Typing SVG"/>
+  <img src="https://raw.githubusercontent.com/FavnyWasTaken/FavnyWasTaken/main/profile-card.svg" alt="profile card" width="800" />
 </p>
 
 <p align="center">
