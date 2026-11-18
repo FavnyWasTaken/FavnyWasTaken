@@ -12,8 +12,9 @@
 <p align="center">
   <img src="https://count.getloli.com/@GitHub_FavnyWasTaken?name=GitHub_FavnyWasTaken&theme=moebooru&padding=7&offset=0&align=top&scale=1.5&pixelated=0&darkmode=1" alt="Visitor counter"/>
 </p>
+## 🛠️ Tech stack
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Linux-c8c8c8?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/GitHub-c8c8c8?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
   <img src="https://img.shields.io/badge/Qubes_OS-c8c8c8?style=for-the-badge&logo=qubesos&logoColor=black" alt="Qubes OS" />
@@ -21,7 +22,6 @@
   <img src="https://img.shields.io/badge/C-c8c8c8?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/Python-c8c8c8?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
 </p>
-
 
 <div align="center">
   <picture>
