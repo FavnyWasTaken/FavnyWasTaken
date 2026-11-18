@@ -16,6 +16,8 @@
 ## 🛠️ Tech stack
 
 <p>
+  <img src="https://img.shields.io/badge/Whonix-c8c8c8?style=for-the-badge&logo=whonix&logoColor=black" alt="Whonix" />
+  <img src="https://img.shields.io/badge/Tor-c8c8c8?style=for-the-badge&logo=torproject&logoColor=black" alt="Tor" />
   <img src="https://img.shields.io/badge/Linux-c8c8c8?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/GitHub-c8c8c8?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
   <img src="https://img.shields.io/badge/Qubes_OS-c8c8c8?style=for-the-badge&logo=qubesos&logoColor=black" alt="Qubes OS" />
